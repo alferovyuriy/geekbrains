@@ -1,3 +1,5 @@
+# coding: utf8
+
 n = int(input('enter Number > 0: '))
 
 nmax = 0
