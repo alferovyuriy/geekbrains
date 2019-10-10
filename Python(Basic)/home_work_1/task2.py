@@ -1,5 +1,5 @@
 # coding: utf8
 
-n = int(input('enter Number: '))
-
-summa = n * 123
+n = input('enter Number: ')
+summa = int(n) + int(2*n) + int(3*n)
+print('summa: ', summa)
