@@ -1,5 +1,10 @@
-# функция принимает 2 позиционных аргумента и выполняет деление
 def division_func(x, y):
+	"""
+	функция принимает 2 позиционных аргумента и выполняет деление
+	:param x: int
+	:param y: int
+	:return: float
+	"""
 	result = x / y if y != 0 else y / x
 	print(f'result: x/y = {result}')
 

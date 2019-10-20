@@ -9,8 +9,8 @@ user_info = {
 }
 
 
-# функция принимает именованные аргументы и выводит в одну строку
 def output_user_info(name, surname, year, city, email, phone_num):
+	""" функция принимает именованные аргументы и выводит в одну строку """
 	print(f'{name}, {surname}, {year}, {city}, {email}, {phone_num}')
 
 
