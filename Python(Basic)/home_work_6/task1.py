@@ -14,14 +14,9 @@ class TrafficLight:
 		self.__color = None
 
 	def running(self):
-		self.__color = 'Red'
-		print(self.__color)
-		time.sleep(7)
-		self.__color = 'Yellow'
-		print(self.__color)
-		time.sleep(2)
-		self.__color = 'Green'
-		print(self.__color)
+		for color, sleep in [('Red', 7), ('Yellow', 2), ('Green', 7)]:
+			self.__color = color
+			time.sleep(sleep)
 
 
 traffic_light = TrafficLight()
