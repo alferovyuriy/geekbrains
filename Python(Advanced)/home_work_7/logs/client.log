@@ -1,0 +1,223 @@
+2019-12-02 02:31:06,177 [INFO] client.py main() init
+2019-12-02 02:31:06,178 [DEBUG] client.py try to parse args
+2019-12-02 02:31:06,290 [INFO] client.py main() init
+2019-12-02 02:31:06,291 [DEBUG] client.py try to parse args
+2019-12-02 02:31:06,306 [INFO] client.py main() init
+2019-12-02 02:31:06,307 [DEBUG] client.py try to parse args
+2019-12-02 02:31:06,308 [INFO] client.py main() init
+2019-12-02 02:31:06,309 [DEBUG] client.py try to parse args
+2019-12-02 02:31:06,326 [INFO] client.py main() init
+2019-12-02 02:31:06,328 [DEBUG] client.py try to parse args
+2019-12-02 02:46:49,912 [INFO] client.py main() init
+2019-12-02 02:46:49,913 [DEBUG] client.py try to parse args
+2019-12-02 02:46:49,916 [INFO] client.py main() init
+2019-12-02 02:46:49,917 [DEBUG] client.py try to parse args
+2019-12-02 02:46:49,937 [INFO] client.py main() init
+2019-12-02 02:46:49,938 [DEBUG] client.py try to parse args
+2019-12-02 02:46:49,964 [INFO] client.py main() init
+2019-12-02 02:46:49,965 [DEBUG] client.py try to parse args
+2019-12-02 02:46:50,031 [INFO] client.py main() init
+2019-12-02 02:46:50,032 [DEBUG] client.py try to parse args
+2019-12-02 03:02:28,011 [INFO] client.py main() init
+2019-12-02 03:02:28,011 [INFO] client.py main() init
+2019-12-02 03:02:28,014 [INFO] client.py main() init
+2019-12-02 03:02:28,019 [INFO] client.py main() init
+2019-12-02 03:02:28,021 [DEBUG] client.py try to parse args
+2019-12-02 03:02:28,021 [DEBUG] client.py try to parse args
+2019-12-02 03:02:28,026 [DEBUG] client.py try to parse args
+2019-12-02 03:02:28,038 [INFO] client.py main() init
+2019-12-02 03:02:28,039 [DEBUG] client.py try to parse args
+2019-12-02 03:02:28,041 [DEBUG] client.py try to parse args
+2019-12-02 03:09:41,888 [INFO] client.py main() init
+2019-12-02 03:09:41,889 [INFO] client.py main() init
+2019-12-02 03:09:41,889 [DEBUG] client.py try to parse args
+2019-12-02 03:09:41,890 [DEBUG] client.py try to parse args
+2019-12-02 03:09:41,891 [ERROR] client.py Error 'Namespace' object has no attribute 'mode'
+2019-12-02 03:09:41,892 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:09:41,892 [ERROR] client.py Error 'Namespace' object has no attribute 'mode'
+2019-12-02 03:09:41,892 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:09:41,953 [INFO] client.py main() init
+2019-12-02 03:09:41,953 [DEBUG] client.py try to parse args
+2019-12-02 03:09:41,956 [ERROR] client.py Error 'Namespace' object has no attribute 'mode'
+2019-12-02 03:09:41,956 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:09:41,985 [INFO] client.py main() init
+2019-12-02 03:09:41,986 [DEBUG] client.py try to parse args
+2019-12-02 03:09:41,989 [ERROR] client.py Error 'Namespace' object has no attribute 'mode'
+2019-12-02 03:09:41,991 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:09:42,005 [INFO] client.py main() init
+2019-12-02 03:09:42,006 [DEBUG] client.py try to parse args
+2019-12-02 03:09:42,009 [ERROR] client.py Error 'Namespace' object has no attribute 'mode'
+2019-12-02 03:09:42,009 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:10:28,608 [INFO] client.py main() init
+2019-12-02 03:10:28,609 [DEBUG] client.py try to parse args
+2019-12-02 03:10:28,611 [DEBUG] client.py Create namespaces
+2019-12-02 03:10:28,611 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:10:28,611 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 03:10:28,667 [INFO] client.py main() init
+2019-12-02 03:10:28,668 [DEBUG] client.py try to parse args
+2019-12-02 03:10:28,670 [DEBUG] client.py Create namespaces
+2019-12-02 03:10:28,670 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:10:28,683 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+:10:28,686 [DEBUG] client.py Create namespaces
+2019-12-02 03:10:28,686 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:10:28,686 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 03:10:28,734 [INFO] client.py main() init
+2019-12-02 03:10:28,735 [DEBUG] client.py try to parse args
+2019-12-02 03:10:28,735 [DEBUG] client.py try to parse args
+2019-12-02 03:10:28,736 [DEBUG] client.py Create namespaces
+2019-12-02 03:10:28,737 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:10:28,737 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: send
+2019-12-02 03:10:28,737 [DEBUG] client.py Create namespaces
+2019-12-02 03:10:28,737 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:10:28,737 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: send
+2019-12-02 03:11:13,303 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575241873.3039894, ACCOUNT_NAME: Guest
+2019-12-02 03:11:13,304 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57414), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 03:11:13,304 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57414), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575241873.3039894, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 03:11:13,694 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57414), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 03:11:13,694 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 03:11:13,694 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 03:11:13,694 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 03:31:55,290 [INFO] client.py main() init
+2019-12-02 03:31:55,293 [DEBUG] client.py try to parse args
+2019-12-02 03:31:55,295 [DEBUG] client.py Create namespaces
+2019-12-02 03:31:55,295 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:31:55,295 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: send
+2019-12-02 03:31:55,323 [INFO] client.py main() init
+2019-12-02 03:31:55,324 [DEBUG] client.py try to parse args
+2019-12-02 03:31:55,326 [DEBUG] client.py Create namespaces
+2019-12-02 03:31:55,327 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:31:55,327 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: send
+2019-12-02 03:31:55,342 [INFO] client.py main() init
+2019-12-02 03:31:55,343 [DEBUG] client.py try to parse args
+2019-12-02 03:31:55,345 [DEBUG] client.py Create namespaces
+2019-12-02 03:31:55,346 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:31:55,346 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 03:31:55,409 [INFO] client.py main() init
+2019-12-02 03:31:55,410 [DEBUG] client.py try to parse args
+2019-12-02 03:31:55,412 [DEBUG] client.py Create namespaces
+2019-12-02 03:31:55,412 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:31:55,412 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 03:31:55,413 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575243115.413034, ACCOUNT_NAME: Guest
+2019-12-02 03:31:55,413 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58120), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 03:31:55,413 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58120), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575243115.413034, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 03:31:55,423 [INFO] client.py main() init
+2019-12-02 03:31:55,424 [DEBUG] client.py try to parse args
+2019-12-02 03:31:55,426 [DEBUG] client.py Create namespaces
+2019-12-02 03:31:55,427 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 03:31:55,427 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 03:31:55,429 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575243115.428035, ACCOUNT_NAME: Guest
+2019-12-02 03:31:55,429 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58121), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 03:31:55,429 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58121), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575243115.428035, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 03:31:55,430 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58120), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 03:31:55,430 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 03:31:55,430 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 03:31:55,430 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 03:31:55,796 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575243115.796056, ACCOUNT_NAME: Guest
+2019-12-02 03:31:55,796 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 03:31:55,797 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575243115.796056, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 03:31:55,798 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58121), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 03:31:55,798 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 03:31:55,799 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 03:31:55,799 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 03:31:55,827 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575243115.8270578, ACCOUNT_NAME: Guest
+2019-12-02 03:31:55,827 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58118), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 03:31:55,828 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58118), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575243115.8270578, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 03:31:55,828 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 03:31:55,829 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 03:31:55,829 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 03:31:55,829 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 03:31:55,852 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575243115.8520591, ACCOUNT_NAME: Guest
+2019-12-02 03:31:55,852 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58119), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 03:31:55,852 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58119), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575243115.8520591, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 03:31:55,853 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58118), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 03:31:55,853 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 03:31:55,853 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 03:31:55,853 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 03:31:56,355 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58119), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 03:31:56,355 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 03:31:56,355 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 03:31:56,355 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 03:32:31,908 [DEBUG] client.py create_message with ACTION: message, TIME: 1575243115.830058, ACCOUNT_NAME: Guest
+2019-12-02 03:32:31,908 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>, 'message'), {})Call from module __main__ function main
+2019-12-02 03:32:31,909 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1575243115.830058, 'user': {'account_name': 'Guest'}, 'mess_text': 'ауца'}), {})Call from module common.utils function main
+2019-12-02 03:32:41,227 [DEBUG] client.py create_message with ACTION: message, TIME: 1575243151.9091215, ACCOUNT_NAME: Guest
+2019-12-02 03:32:41,227 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>, 'message'), {})Call from module __main__ function main
+2019-12-02 03:32:41,228 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58117), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1575243151.9091215, 'user': {'account_name': 'Guest'}, 'mess_text': 'fgergrg'}), {})Call from module common.utils function main
+2019-12-02 04:04:29,850 [INFO] client.py main() init
+2019-12-02 04:04:29,852 [DEBUG] client.py try to parse args
+2019-12-02 04:04:29,854 [DEBUG] client.py Create namespaces
+2019-12-02 04:04:29,854 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 04:04:29,854 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: send
+2019-12-02 04:04:29,884 [INFO] client.py main() init
+2019-12-02 04:04:29,885 [DEBUG] client.py try to parse args
+2019-12-02 04:04:29,887 [DEBUG] client.py Create namespaces
+2019-12-02 04:04:29,887 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 04:04:29,887 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 04:04:29,889 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575245069.8898237, ACCOUNT_NAME: Guest
+2019-12-02 04:04:29,889 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58963), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 04:04:29,889 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58963), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575245069.8898237, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 04:04:29,913 [INFO] client.py main() init
+2019-12-02 04:04:29,914 [DEBUG] client.py try to parse args
+2019-12-02 04:04:29,914 [DEBUG] client.py try to parse args
+2019-12-02 04:04:29,916 [DEBUG] client.py Create namespaces
+2019-12-02 04:04:29,917 [DEBUG] client.py Create namespaces
+2019-12-02 04:04:29,917 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 04:04:29,917 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+ain
+2019-12-02 04:04:29,917 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: listen
+2019-12-02 04:04:29,918 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575245069.9188254, ACCOUNT_NAME: Guest
+2019-12-02 04:04:29,918 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575245069.9188254, ACCOUNT_NAME: Guest
+2019-12-02 04:04:29,918 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58964), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 04:04:29,918 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58965), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 04:04:29,918 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58964), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575245069.9188254, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 04:04:29,919 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58965), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575245069.9188254, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 04:04:29,919 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58963), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:29,919 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 04:04:29,920 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 04:04:29,920 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 04:04:29,920 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58964), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:29,921 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 04:04:29,921 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 04:04:29,921 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 04:04:29,921 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58965), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:29,922 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 04:04:29,922 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 04:04:29,922 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 04:04:29,971 [INFO] client.py main() init
+2019-12-02 04:04:29,971 [DEBUG] client.py try to parse args
+2019-12-02 04:04:29,973 [DEBUG] client.py Create namespaces
+2019-12-02 04:04:29,973 [DEBUG] decorators.py Colled function arg_parse with params ((), {})Call from module __main__ function main
+2019-12-02 04:04:29,973 [INFO] client.py Running client with server address: 127.0.0.1; server port: 7777; client mode: send
+2019-12-02 04:04:29,974 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575245069.9748287, ACCOUNT_NAME: Guest
+2019-12-02 04:04:29,974 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58966), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 04:04:29,975 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58966), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575245069.9748287, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 04:04:30,354 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575245070.3548503, ACCOUNT_NAME: Guest
+2019-12-02 04:04:30,354 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58962), raddr=('127.0.0.1', 7777)>, 'presence'), {})Call from module __main__ function main
+2019-12-02 04:04:30,355 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58962), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575245070.3548503, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-02 04:04:30,357 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58966), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:30,358 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 04:04:30,358 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 04:04:30,358 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 04:04:30,360 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58962), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:30,361 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-02 04:04:30,361 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-02 04:04:30,361 [DEBUG] client.py Client connected to server. Server answer: 200 : OK
+2019-12-02 04:04:35,891 [DEBUG] client.py create_message with ACTION: message, TIME: 1575245070.3598506, ACCOUNT_NAME: Guest
+2019-12-02 04:04:35,892 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58966), raddr=('127.0.0.1', 7777)>, 'message'), {})Call from module __main__ function main
+2019-12-02 04:04:35,892 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58966), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1575245070.3598506, 'user': {'account_name': 'Guest'}, 'mess_text': 'ауцауа'}), {})Call from module common.utils function main
+2019-12-02 04:04:36,363 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58963), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:36,364 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58964), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:36,364 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58965), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:36,365 [DEBUG] decorators.py Colled function server_message with params (({'action': 'message', 'sender': 'Guest', 'time': 1575245076.3631942, 'mess_text': 'ауцауа'},), {})Call from module __main__ function main
+2019-12-02 04:04:36,366 [DEBUG] decorators.py Colled function server_message with params (({'action': 'message', 'sender': 'Guest', 'time': 1575245076.3631942, 'mess_text': 'ауцауа'},), {})Call from module __main__ function main
+2019-12-02 04:04:36,366 [DEBUG] decorators.py Colled function server_message with params (({'action': 'message', 'sender': 'Guest', 'time': 1575245076.3631942, 'mess_text': 'ауцауа'},), {})Call from module __main__ function main
+2019-12-02 04:04:51,292 [DEBUG] client.py create_message with ACTION: message, TIME: 1575245070.362851, ACCOUNT_NAME: Guest
+2019-12-02 04:04:51,292 [DEBUG] decorators.py Colled function create_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58962), raddr=('127.0.0.1', 7777)>, 'message'), {})Call from module __main__ function main
+2019-12-02 04:04:51,293 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58962), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1575245070.362851, 'user': {'account_name': 'Guest'}, 'mess_text': 'прпекок'}), {})Call from module common.utils function main
+2019-12-02 04:04:51,369 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58963), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:51,369 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58964), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:51,370 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58965), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-02 04:04:51,371 [DEBUG] decorators.py Colled function server_message with params (({'action': 'message', 'sender': 'Guest', 'time': 1575245091.3680522, 'mess_text': 'прпекок'},), {})Call from module __main__ function main
+2019-12-02 04:04:51,371 [DEBUG] decorators.py Colled function server_message with params (({'action': 'message', 'sender': 'Guest', 'time': 1575245091.3680522, 'mess_text': 'прпекок'},), {})Call from module __main__ function main
+2019-12-02 04:04:51,372 [DEBUG] decorators.py Colled function server_message with params (({'action': 'message', 'sender': 'Guest', 'time': 1575245091.3680522, 'mess_text': 'прпекок'},), {})Call from module __main__ function main
+2019-12-02 04:05:02,979 [INFO] client.py Socket closed by user: Guest

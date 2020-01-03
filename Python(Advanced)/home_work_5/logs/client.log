@@ -1,0 +1,13 @@
+2019-11-28 03:54:45,868 [INFO] client.py main() init
+2019-11-28 03:54:45,868 [ERROR] client.py IndexError: list index out of range
+2019-11-28 03:54:45,868 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-11-28 03:54:45,868 [DEBUG] client.py create_message with ACTION: presence, TIME: 1574898885.8687825, ACCOUNT_NAME: Guest
+2019-11-28 03:54:45,868 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-11-28 03:54:45,868 [DEBUG] client.py Server answer: 200 : OK
+2019-11-28 03:58:28,726 [INFO] client.py main() init
+2019-11-28 03:58:28,726 [DEBUG] client.py try get args from sys.argv
+2019-11-28 03:58:28,736 [ERROR] client.py IndexError: list index out of range
+2019-11-28 03:58:28,736 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-11-28 03:58:28,736 [DEBUG] client.py create_message with ACTION: presence, TIME: 1574899108.7361426, ACCOUNT_NAME: Guest
+2019-11-28 03:58:28,736 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-11-28 03:58:28,736 [DEBUG] client.py Server answer: 200 : OK

@@ -1,0 +1,77 @@
+2019-11-30 23:43:45,026 [INFO] client.py main() init
+2019-11-30 23:43:45,026 [DEBUG] client.py try get args from sys.argv
+2019-11-30 23:43:45,026 [ERROR] client.py IndexError: list index out of range
+2019-11-30 23:43:45,026 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-11-30 23:43:45,026 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575143025.0263135, ACCOUNT_NAME: Guest
+2019-11-30 23:43:45,026 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__
+2019-11-30 23:43:45,026 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50352), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575143025.0263135, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils
+2019-11-30 23:43:45,036 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50352), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils
+2019-11-30 23:43:45,036 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-11-30 23:43:45,036 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__
+2019-11-30 23:43:45,036 [DEBUG] client.py Server answer: 200 : OK
+2019-12-01 02:06:00,825 [INFO] client.py main() init
+2019-12-01 02:06:00,841 [DEBUG] client.py try get args from sys.argv
+2019-12-01 02:06:00,841 [ERROR] client.py IndexError: list index out of range
+2019-12-01 02:06:00,841 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-12-01 02:06:00,841 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575151560.841215, ACCOUNT_NAME: Guest
+2019-12-01 02:06:00,841 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__
+2019-12-01 02:06:00,841 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55934), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575151560.841215, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils
+2019-12-01 02:06:00,903 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55934), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils
+2019-12-01 02:06:00,903 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-01 02:06:00,903 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__
+2019-12-01 02:06:00,903 [DEBUG] client.py Server answer: 200 : OK
+2019-12-01 02:13:41,070 [INFO] client.py main() init
+2019-12-01 02:13:41,070 [DEBUG] client.py try get args from sys.argv
+2019-12-01 02:13:41,070 [ERROR] client.py IndexError: list index out of range
+2019-12-01 02:13:41,070 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-12-01 02:13:41,070 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575152021.0706415, ACCOUNT_NAME: Guest
+2019-12-01 02:13:41,070 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__
+2019-12-01 02:13:41,086 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56147), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575152021.0706415, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils
+2019-12-01 02:13:41,086 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56147), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils
+2019-12-01 02:13:41,086 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-01 02:13:41,086 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__
+2019-12-01 02:13:41,086 [DEBUG] client.py Server answer: 200 : OK
+2019-12-01 01:20:32,944 [INFO] client.py main() init
+2019-12-01 01:20:32,944 [DEBUG] client.py try get args from sys.argv
+2019-12-01 01:20:32,944 [ERROR] client.py IndexError: list index out of range
+2019-12-01 01:20:32,944 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-12-01 01:20:32,944 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575148832.9441738, ACCOUNT_NAME: Guest
+2019-12-01 01:20:32,944 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__ function <module>
+2019-12-01 01:20:32,944 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56334), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575148832.9441738, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function <module>
+2019-12-01 01:20:32,944 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56334), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function <module>
+2019-12-01 01:20:32,944 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-01 01:20:32,944 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function <module>
+2019-12-01 01:20:32,944 [DEBUG] client.py Server answer: 200 : OK
+2019-12-01 01:24:50,234 [INFO] client.py main() init
+2019-12-01 01:24:50,234 [DEBUG] client.py try get args from sys.argv
+2019-12-01 01:24:50,234 [ERROR] client.py IndexError: list index out of range
+2019-12-01 01:24:50,234 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-12-01 01:24:50,234 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575149090.2348351, ACCOUNT_NAME: Guest
+2019-12-01 01:24:50,234 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__
+2019-12-01 01:24:50,234 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56456), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575149090.2348351, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils
+2019-12-01 01:24:50,234 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56456), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils
+2019-12-01 01:24:50,234 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-01 01:24:50,234 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__
+2019-12-01 01:24:50,234 [DEBUG] client.py Server answer: 200 : OK
+2019-12-01 01:26:29,813 [INFO] client.py main() init
+2019-12-01 01:26:29,813 [DEBUG] client.py try get args from sys.argv
+2019-12-01 01:26:29,813 [ERROR] client.py IndexError: list index out of range
+2019-12-01 01:26:29,813 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-12-01 01:26:29,829 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575149189.8290138, ACCOUNT_NAME: Guest
+2019-12-01 01:26:29,829 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__
+2019-12-01 01:26:29,829 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56476), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575149189.8290138, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils
+2019-12-01 01:26:29,829 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56476), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils
+2019-12-01 01:26:29,829 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-01 01:26:29,829 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__
+2019-12-01 01:26:29,829 [DEBUG] client.py Server answer: 200 : OK
+2019-12-01 01:28:06,583 [INFO] client.py main() init
+2019-12-01 01:28:06,583 [DEBUG] client.py try get args from sys.argv
+2019-12-01 01:28:06,583 [ERROR] client.py IndexError: list index out of range
+2019-12-01 01:28:06,583 [DEBUG] client.py server_address 127.0.0.1, server_port7777
+2019-12-01 01:28:06,599 [DEBUG] client.py create_message with ACTION: presence, TIME: 1575149286.5995874, ACCOUNT_NAME: Guest
+2019-12-01 01:28:06,599 [DEBUG] decorators.py Colled function create_message with params (('presence',), {})Call from module __main__ function main
+2019-12-01 01:28:06,599 [DEBUG] decorators.py Colled function send_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56511), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1575149286.5995874, 'user': {'account_name': 'Guest'}}), {})Call from module common.utils function main
+2019-12-01 01:28:06,599 [DEBUG] decorators.py Colled function get_message with params ((<socket.socket fd=236, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56511), raddr=('127.0.0.1', 7777)>,), {})Call from module common.utils function main
+2019-12-01 01:28:06,599 [DEBUG] client.py get_answer with message: {'response': 200}
+2019-12-01 01:28:06,599 [DEBUG] decorators.py Colled function get_answer with params (({'response': 200},), {})Call from module __main__ function main
+2019-12-01 01:28:06,599 [DEBUG] client.py Server answer: 200 : OK
